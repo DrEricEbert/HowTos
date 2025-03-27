@@ -1,4 +1,6 @@
-Wake-on-LAN (WOL) ermöglicht es dir, einen ausgeschalteten Computer über ein Netzwerk einzuschalten. Hier ist eine Erklärung, wie du es unter Windows und Linux einrichtest und verwendest:
+**Wake-on-LAN (WOL)**
+
+ermöglicht es dir, einen ausgeschalteten Computer über ein Netzwerk einzuschalten. Hier ist eine Erklärung, wie du es unter Windows und Linux einrichtest und verwendest:
 
 **Grundsätzliche Voraussetzungen (für Windows und Linux):**
 
